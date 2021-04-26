@@ -9,7 +9,9 @@ yarn
 ## ENV properties
 
 `CKB_RPC` => ckb rpc address, default to `http://localhost:8114`
+
 `IDEXER_PATH` => indexer data path, default to `./indexer-data`
+
 `PORT` => server port, default to `8888` 
 
 ## Start
